@@ -1,10 +1,14 @@
 # **Data Analyst | Data Scientist**<br>
 Data Science Masters student graduating in August 2024 looking for opportunities to transition into the data analysis/data science field. Managing small-scale Excel datasets sparked my interest in programming and querying. Now proficient in the skills necessary for data analytics, data science, machine learning, and visualization. Experience in pharmaceutical research solidified my understanding of collecting and maintaining accessible and understandable data while working in high-demand environments.
 
-### **Education**
-M.S., Information Management (Data Science) | The University Washington (August 2024)<br>
-B.S., Molecular Biology | Pitzer College (May 2019)<br>
+### **Skills**
+· Python    | Numpy, Pandas, Seaborn, SkLearn, BeautifulSoup<br>
+· SQL       | Microsoft SQL Server, MySQL<br>
+· Viz Tools | PowerBI, Tableau
 
+### **Education**
+M.S., Information Management (DS) | The University Washington (August 2024)<br>
+B.S., Molecular Biology           | Pitzer College (May 2019)
 
 ### **Work Experience**
 **Lab Manager | Shoreline Biosciences (December 2021 - November 2023)**<br>
@@ -30,8 +34,5 @@ B.S., Molecular Biology | Pitzer College (May 2019)<br>
 
 ### **Projects**
 
-### **Skills**
-· Python | Numpy, Pandas, Seaborn, SkLearn, BeautifulSoup<br>
-· SQL | Microsoft SQL Server, MySQL<br>
-· Visualization | PowerBI, Tableau
+
 

@@ -2,7 +2,7 @@
 
 ### Education
 M.S., Information Management (Data Science) | The University Washington (August 2024)<br>
-B.S., Molecular Biology | Pitzer College (May 2019)
+B.S., Molecular Biology | Pitzer College (May 2019)<br>
 Data Science Masters student graduating in August 2024 looking for opportunities to transition into the data analysis/data science field. Managing small-scale Excel datasets sparked my interest in programming and querying. Now proficient in the skills necessary for data analytics, data science, machine learning, and visualization. Experience in pharmaceutical research solidified my understanding of collecting and maintaining accessible and understandable data while working in high-demand environments.
 
 ### Work Experience

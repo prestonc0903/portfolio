@@ -7,7 +7,7 @@ Data Science Masters student graduating in August 2024 looking for opportunities
 · Viz Tools | PowerBI, Tableau
 
 ### **Education**
-M.S., Information Management (DS) | The University Washington (August 2024)<br>
+M.S., Information Management: Data Science | The University Washington (August 2024)<br>
 B.S., Molecular Biology           | Pitzer College (May 2019)
 
 ### **Work Experience**

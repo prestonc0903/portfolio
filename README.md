@@ -2,13 +2,13 @@
 Data Science Masters student graduating in August 2024 looking for opportunities to transition into the data analysis/data science field. Managing small-scale Excel datasets sparked my interest in programming and querying. Now proficient in the skills necessary for data analytics, data science, machine learning, and visualization. Experience in pharmaceutical research solidified my understanding of collecting and maintaining accessible and understandable data while working in high-demand environments.
 
 ## **Skills**
-· Python    | Numpy, Pandas, Seaborn, SkLearn, BeautifulSoup<br>
+· Python    | Numpy, Pandas, Seaborn, SkLearn, TensorFlow<br>
 · SQL       | Microsoft SQL Server, MySQL<br>
 · Viz Tools | PowerBI, Tableau
 
 ## **Education**
 M.S., Information Management: Data Science | The University Washington (Aug 2024)<br>
-B.S., Molecular Biology | Pitzer College (May 2019)
+B.A., Molecular Biology | Pitzer College (May 2019)
 
 ## **Work Experience**
 ### **Lab Manager | Shoreline Biosciences (Dec 2021 - Nov 2023)**<br>
@@ -33,7 +33,8 @@ B.S., Molecular Biology | Pitzer College (May 2019)
 ### **Visualization Tool For Cathay Pacific Airline Reviews**<br>
 **Python** (BeautifulSoup, Pandas) | **Tableau** <br>
 [GitHub](https://github.com/prestonc0903/cathaypacific_tableau/tree/main)<br>
-![Cathay_Logo](/assets/img/cathay-pacific.png)<br>
-Skytrak is a popular airline review website where individuals can rate and share their experience on certain airlines. The goal of the project was to extract the reviews, cleanup the data and create an user friendly visualization tool for individuals to see flyer's past experiences on Cathay Pacific.
+Skytrak is a popular airline review website where individuals can rate and share their experience on certain airlines. The goal of the project was to extract the reviews, cleanup the data and create an user friendly visualization tool for individuals to see flyer's past experiences on Cathay Pacific.<br>
+![Cathay_Logo](/assets/img/cathay-pacific.png)
+
 
 

@@ -23,7 +23,7 @@ B.A., Molecular Biology | Pitzer College (May 2019)
 · Designed gRNAs for dCas9 complexes to shuttle repressor proteins to target regions and transfect into cancer cell lines.<br>
 · Measured changes in gene expression of the pooled and isolated single cells via RT-qPCR and ChIP-seq.
 
-### **Research Associate I | Ananptysbio (Jun 2019 - Jun 2021)**<br>
+### **Research Associate I | Anaptysbio (Jun 2019 - Jun 2021)**<br>
 · Fulfilled the role as the primary RA responsible for creating antigen and antibody plasmid constructs for two projects.<br>
 · Prepared MiSeq NGS libraries for the antibody affinity maturation pipeline and scheduled Illumina maintenance checks.<br>
 · Purified DNA with plasmid kits and generated weekly QC reports with Sanger sequencing and restriction digest analysis.<br>

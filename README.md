@@ -35,7 +35,8 @@ B.S., Molecular Biology | Pitzer College (May 2019)
 ## **Projects**
 **Visualization Tool For Cathay Pacific Airline Reviews**<br>
 Python (BeautifulSoup, Pandas), Tableau <br>
+[GitHub](https://github.com/prestonc0903/cathaypacific_tableau/tree/main)
 ![Cathay_Logo](/assets/img/cathay-pacific.png)
-Skytrak is a popular airline review website where individuals can rate and share their experience on certain airlines. The goal of the project was to extract the reviews, cleanup the data and create an user friendly visualization tool for individuals to see Cathay Pacific's performance.
+Skytrak is a popular airline review website where individuals can rate and share their experience on certain airlines. The goal of the project was to extract the reviews, cleanup the data and create an user friendly visualization tool for individuals to see flyer's past experiences on Cathay Pacific.
 
 

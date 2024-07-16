@@ -1,16 +1,16 @@
 # **Data Analyst | Data Scientist**<br>
 Data Science Masters student graduating in August 2024 looking for opportunities to transition into the data analysis/data science field. Managing small-scale Excel datasets sparked my interest in programming and querying. Now proficient in the skills necessary for data analytics, data science, machine learning, and visualization. Experience in pharmaceutical research solidified my understanding of collecting and maintaining accessible and understandable data while working in high-demand environments.
 
-### **Skills**
+## **Skills**
 · Python    | Numpy, Pandas, Seaborn, SkLearn, BeautifulSoup<br>
 · SQL       | Microsoft SQL Server, MySQL<br>
 · Viz Tools | PowerBI, Tableau
 
-### **Education**
+## **Education**
 M.S., Information Management: Data Science | The University Washington (August 2024)<br>
-B.S., Molecular Biology           | Pitzer College (May 2019)
+B.S., Molecular Biology | Pitzer College (May 2019)
 
-### **Work Experience**
+## **Work Experience**
 **Lab Manager | Shoreline Biosciences (December 2021 - November 2023)**<br>
 · Consistently managed an Excel catalog, detailing information including the SN number, location, installation date, and upcoming service dates for approximately 500 pieces of laboratory equipment.<br>
 · Scheduled installations, services, calibrations, and preventative maintenance’s for all lab equipment. Actively managed records and renewed service contracts for valuable lab equipment with particular attention to the GMP documentation.<br>
@@ -32,7 +32,9 @@ B.S., Molecular Biology           | Pitzer College (May 2019)
 · Purified DNA with plasmid kits and generated weekly QC reports with Sanger sequencing and restriction digest analysis.<br>
 · Synthesized plasmids efficiently using techniques such as Gibson Assembly, SSM, SDM PCR, etc.
 
-### **Projects**
-
+## **Projects**
+**Visualization Tool For Cathay Pacific Airline Reviews**<br>
+Python (BeautifulSoup, Pandas), Tableau <br>
+Skytrak is a popular airline review website where individuals can rate and share their experience on certain airlines. The goal of the project was to extract the reviews, cleanup the data and create an user friendly visualization tool for individuals to see Cathay Pacific's performance.
 
 

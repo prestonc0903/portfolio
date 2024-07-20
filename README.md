@@ -5,9 +5,9 @@ As a prospective Data Science Master's graduate (August 2024), I am excited to t
 <br>
 
 ## **Skills**
-· Python    | Numpy, Pandas, Seaborn, SkLearn, TensorFlow<br>
-· SQL       | Microsoft SQL Server, MySQL<br>
-· Viz Tools | PowerBI, Tableau
+· **Python**    | Numpy, Pandas, Seaborn, SkLearn, TensorFlow<br>
+· **SQL**       | Microsoft SQL Server, MySQL<br>
+· **Viz Tools** | PowerBI, Tableau
 
 ## **Education**
 M.S., Information Management: Data Science | The University Washington (Aug 2024)<br>

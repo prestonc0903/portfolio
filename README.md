@@ -5,8 +5,8 @@ As a prospective Data Science Master's graduate (August 2024), I am excited to t
 <br>
 
 ## **Skills**
-- **Python**        Numpy | Pandas | Seaborn | SkLearn | TensorFlow
-- **SQL**           Microsoft SQL Server | MySQL
+- **Python**        Numpy, Pandas, Seaborn, SkLearn, TensorFlow
+- **SQL**           Microsoft SQL Server, MySQL
 - **Visualization** Tableau
 
 ## **Education**

@@ -14,27 +14,27 @@ B.A., Molecular Biology | Pitzer College (May 2019)
 
 ## **Work Experience**
 ### **Lab Manager | Shoreline Biosciences (Dec 2021 - Nov 2023)**<br>
-· Designed and maintained a database using Excel, tracking details such as serial numbers, locations, installation dates, and upcoming service requirements for 500+ pieces of laboratory equipment.<br>
-· Created a centralized database on OneDrive containing all biological/chemical waste records, radiation safety reports, calibration/service records, and contracts for future reference.<br>
-· Utilized Excel and automated calendar scheduling to optimally schedule installations, services, calibrations, and preventative maintenance, ensuring minimal downtime and conflict with ongoing experiments.<br>
-· Implemented data-driven strategies to optimize inventory levels and restocking processes, ensuring consistent availability of communal lab consumable while staying within budget restrictions.
+· Designed and maintained a database using Excel, tracking details such as serial numbers, locations, installation dates, and upcoming service requirements for 500+ pieces of laboratory equipment.</div><br>
+· Created a centralized database on OneDrive containing all biological/chemical waste records, radiation safety reports, calibration/service records, and contracts for future reference.</div><br>
+· Utilized Excel and automated calendar scheduling to optimally schedule installations, services, calibrations, and preventative maintenance, ensuring minimal downtime and conflict with ongoing experiments.</div><br>
+· Implemented data-driven strategies to optimize inventory levels and restocking processes, ensuring consistent availability of communal lab consumable while staying within budget restrictions.</div>
 
 ### **Laboratory Technician II | University of Southern California (Jul 2021 - Dec 2021)**<br>
-· Repressed identified prostate cancer-specific enhancer/insulator regions using dCas9-ED complexes to reduce H3K27ac3.<br>
-· Designed gRNAs for dCas9 complexes to shuttle repressor proteins to target regions and transfect into cancer cell lines.<br>
-· Measured changes in gene expression of the pooled and isolated single cells via RT-qPCR and ChIP-seq.
+· Repressed identified prostate cancer-specific enhancer/insulator regions using dCas9-ED complexes to reduce H3K27ac3.</div><br>
+· Designed gRNAs for dCas9 complexes to shuttle repressor proteins to target regions and transfect into cancer cell lines.</div><br>
+· Measured changes in gene expression of the pooled and isolated single cells via RT-qPCR and ChIP-seq.</div>
 
 ### **Research Associate I | Anaptysbio (Jun 2019 - Jun 2021)**<br>
-· Responsible for creating antigen and antibody plasmid constructs for two preclinical projects.<br>
-· Prepared MiSeq NGS libraries for the antibody affinity maturation pipeline and scheduled Illumina maintenance checks.<br>
-· Purified DNA with plasmid kits and generated weekly QC reports with Sanger sequencing and restriction digest analysis.<br>
-· Synthesized plasmids efficiently using techniques such as Gibson Assembly, SSM, SDM PCR, etc.
+· Responsible for creating antigen and antibody plasmid constructs for two preclinical projects.</div><br>
+· Prepared MiSeq NGS libraries for the antibody affinity maturation pipeline and scheduled Illumina maintenance checks.</div><br>
+· Purified DNA with plasmid kits and generated weekly QC reports with Sanger sequencing and restriction digest analysis.</div><br>
+· Synthesized plasmids efficiently using techniques such as Gibson Assembly, SSM, SDM PCR, etc.</div>
 
 ## **Projects**
 ### **Visualization Tool For Cathay Pacific Airline Reviews**<br>
 **Python** (BeautifulSoup, Pandas) | **Tableau** <br>
 [GitHub](https://github.com/prestonc0903/cathaypacific_tableau/tree/main)<br>
-Skytrak is a popular airline review website where individuals can rate and share their experience on certain airlines. The goal of the project was to extract the reviews, cleanup the data and create an user friendly visualization tool for individuals to see flyer's past experiences on Cathay Pacific.<br>
+Skytrak is a popular airline review website where individuals can rate and share their experience on certain airlines. The goal of the project was to extract the reviews, cleanup the data and create an user friendly visualization tool for individuals to see flyer's past experiences on Cathay Pacific.</div><br>
 ![Cathay_Logo](/assets/img/cathay-pacific.png)
 
 

@@ -2,8 +2,7 @@
 <div style="text-align: justify;">
 As a prospective Data Science Master's graduate (August 2024), I am excited to transition into the data science and data analytics. Managing small-scale datasets and databases sparked my interest in programming and querying. My quantitative analytical experience in pharmaceutical research has strengthened my ability to collect, analyze, and present data effectively in high-demand environments. I am now proficient in the technical skills (Python, SQL, Tableau) required to excel in these data intensive roles.
 </div>
-
-
+<br>
 ## **Skills**
 · Python    | Numpy, Pandas, Seaborn, SkLearn, TensorFlow<br>
 · SQL       | Microsoft SQL Server, MySQL<br>
@@ -32,9 +31,8 @@ B.A., Molecular Biology | Pitzer College (May 2019)
 · Synthesized plasmids efficiently using techniques such as Gibson Assembly, SSM, SDM PCR, etc.
 
 ## **Projects**
-### **Visualization Tool For Cathay Pacific Airline Reviews**<br>
+### [Visualization Tool For Cathay Pacific Airline Reviews](https://github.com/prestonc0903/cathaypacific_tableau/tree/main)
 **Python** (BeautifulSoup, Pandas) | **Tableau** <br>
-[GitHub](https://github.com/prestonc0903/cathaypacific_tableau/tree/main)<br>
 <div style="text-align: justify;">
 Skytrak is a popular airline review website where individuals can rate and share their experience on certain airlines. The goal of the project was to extract the reviews, cleanup the data and create an user friendly visualization tool for individuals to see flyer's past experiences on Cathay Pacific.
 </div>

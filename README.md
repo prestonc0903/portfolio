@@ -32,7 +32,7 @@ As a prospective Data Science Master's graduate (August 2024), I am excited to t
 - Synthesized plasmids efficiently using techniques such as Gibson Assembly, SSM, SDM PCR, etc.
 
 ## **Projects**
-### [Visualization Tool For Cathay Pacific Airline Reviews](https://github.com/prestonc0903/cathaypacific_tableau/tree/main)
+### [Interactive Dashboard For Cathay Pacific Airline Reviews](https://github.com/prestonc0903/cathaypacific_tableau/tree/main)
 **Python** (BeautifulSoup, Pandas) | **Tableau**
 <div style="text-align: justify;">
 Skytrak is a popular airline review website where individuals can rate and share their experience on certain airlines. The goal of the project was to extract the reviews, cleanup the data and create an user friendly visualization tool for individuals to see flyer's past experiences on Cathay Pacific.

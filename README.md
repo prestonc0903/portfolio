@@ -1,6 +1,6 @@
 # **Data Analyst | Data Scientist**<br>
 <div style="text-align: justify;">
-As a prospective Data Science Master's graduate (August 2024), I am excited to transition into the data science and data analytics. Managing small-scale datasets and databases sparked my interest in programming and querying. My quantitative analytical experience in pharmaceutical research has strengthened my ability to collect, analyze, and present data effectively in high-demand environments. I am now proficient in the technical skills (Python, SQL, Tableau) required to excel in these data intensive roles.
+Recent Data Science Master's graduate who is excited to transition into the data science and data analytics. Managing small-scale datasets and databases sparked my interest in programming and querying. My quantitative analytical experience in pharmaceutical research has strengthened my ability to collect, analyze, and present data effectively in high-demand environments. I am now proficient in the technical skills (Python, SQL, Tableau) required to excel in these data intensive roles.
 </div>
 <br>
 

@@ -33,6 +33,13 @@ As a prospective Data Science Master's graduate (August 2024), I am excited to t
 - Synthesized plasmids efficiently using techniques such as Gibson Assembly, SSM, SDM PCR, etc.
 
 ## **Projects**
+### [ClimbBot: The Discord Chatbot to Improve Your Climbing](https://github.com/prestonc0903/Discord_ClimbBot)
+**Python** (Discord, Dotenv, BeautifulSoup, Pandas) | **SQL (Sqlite3)**| **Excel** 
+<div style="text-align: justify;">
+Rock climbing is different compared to other sports in because it's hard to know what you need to do in order to improve. While progressing to the next grade is the simplest way to determine if you're improving, getting to that next level is not as simple as adding more weight to a workout. ClimbBot aims to help users design workout routines based on their current level. The goal of the bot is develop a balanced boulder or top rope workout that can help climbers with their mobility, flexibility, strength, and most importantly confidence. Future versions will make the bot more user interactive and provide feedback based on how well the climber worked through the proposed workout. 
+</div>
+![Cathay_Logo](/assets/img/alex-honnold-free-solo.png)
+
 ### [Interactive Dashboard For Cathay Pacific Airline Reviews](https://github.com/prestonc0903/cathaypacific_tableau/tree/main)
 **Python** (BeautifulSoup, Pandas) | **Tableau**
 <div style="text-align: justify;">

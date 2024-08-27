@@ -5,10 +5,10 @@ Recent Data Science Master's graduate who is excited to transition into the data
 <br>
 
 ## **Skills**
-- **Python** | Numpy, Pandas, Seaborn, SkLearn, TensorFlow, BeautifulSoup, Matplotlib
-- **SQL** | Microsoft SQL Server, MySQL, SQLite3
-- **Visualization** | PowerBI, Tableau
-- **Excel** | Pivot Tables, XLookup, IndexMatch
+- **Python** |Numpy, Pandas, Seaborn, SkLearn, TensorFlow, BeautifulSoup, Matplotlib
+- **SQL** |Microsoft SQL Server, MySQL, SQLite3
+- **Visualization** |PowerBI, Tableau
+- **Excel** |Pivot Tables, XLookup, IndexMatch
 
 ## **Education**
 - **M.S., Information Management: Data Science** | The University Washington (Aug 2024)
